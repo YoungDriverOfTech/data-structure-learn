@@ -12,6 +12,5 @@ public class MyQueueTest {
         System.out.println(queue.peekFront());
 
         queue.insert(4);
-//        queue.insert(5);
     }
 }
