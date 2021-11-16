@@ -7,9 +7,7 @@ public class BinaryTreeTest {
         binaryTree.insert(6);
         binaryTree.insert(3);
         binaryTree.insert(1);
-
         binaryTree.showTree(binaryTree.getRootNode());
-
         binaryTree.delete(1);
         binaryTree.showTree(binaryTree.getRootNode());
     }
