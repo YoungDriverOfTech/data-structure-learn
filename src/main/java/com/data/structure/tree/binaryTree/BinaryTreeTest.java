@@ -10,7 +10,6 @@ public class BinaryTreeTest {
         binaryTree.showTree(binaryTree.getRootNode());
         binaryTree.delete(1);
         binaryTree.showTree(binaryTree.getRootNode());
-        
     }
 
     public static void print(int obj) {
