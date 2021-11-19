@@ -8,7 +8,7 @@ public class EnhanceStackTest {
         stack.push(2);
         stack.push(3);
         stack.push("abc");
-        System.out.println(stack.peek());
+//        System.out.println(stack.peek());
         stack.pop();
         stack.pop();
         stack.pop();
