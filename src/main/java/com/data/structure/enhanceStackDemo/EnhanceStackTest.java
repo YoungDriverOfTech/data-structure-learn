@@ -11,5 +11,6 @@ public class EnhanceStackTest {
         stack.pop();
         stack.pop();
         System.out.println(stack.peek());
+
     }
 }
